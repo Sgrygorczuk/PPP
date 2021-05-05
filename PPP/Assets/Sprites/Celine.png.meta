@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 912a6ccdc03b5e23fa4dda379d908443
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4463840592410340793
+    second: Celine_0
+  - first:
+      213: 7592512464798464640
+    second: Celine_1
+  - first:
+      213: 1304745607019778444
+    second: Celine_2
+  - first:
+      213: -6816833038533812729
+    second: Celine_3
+  - first:
+      213: -4003046919582181200
+    second: Celine_4
+  - first:
+      213: 8582317059442763239
+    second: Celine_5
+  - first:
+      213: 9038092265786046858
+    second: Celine_6
+  - first:
+      213: -6551225252051947784
+    second: Celine_7
+  - first:
+      213: 1003366463820809484
+    second: Celine_8
+  - first:
+      213: 213900251876504073
+    second: Celine_9
+  - first:
+      213: -3523659839299080932
+    second: Celine_10
+  - first:
+      213: 5184713000570039769
+    second: Celine_11
+  - first:
+      213: 4595286788978414718
+    second: Celine_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Celine_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1015
+        width: 356
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7429963b1a04d02c0800000000000000
+      internalID: -4463840592410340793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 650
+        width: 350
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ab9012cd50e5960800000000000000
+      internalID: 7592512464798464640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 426
+        width: 246
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c815aac77336b1210800000000000000
+      internalID: 1304745607019778444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 60
+        width: 170
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e9b05f77eb561a0800000000000000
+      internalID: -6816833038533812729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 937
+        width: 101
+        height: 128
+      alignment: 9
+      pivot: {x: 0.8077314, y: 0.803524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8151329025278c0800000000000000
+      internalID: -4003046919582181200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 745
+        width: 95
+        height: 161
+      alignment: 9
+      pivot: {x: 0.81353503, y: 0.8700099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e56cddf4e38a1770800000000000000
+      internalID: 8582317059442763239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_6
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 933
+        width: 88
+        height: 116
+      alignment: 9
+      pivot: {x: 0.20125927, y: 0.8477341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89f165a701cd6d70800000000000000
+      internalID: 9038092265786046858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_7
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 663
+        width: 144
+        height: 178
+      alignment: 9
+      pivot: {x: 0.22120836, y: 0.7982946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feefd7d75f5515a0800000000000000
+      internalID: -6551225252051947784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_8
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 578
+        width: 598
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0544979b7caced00800000000000000
+      internalID: 1003366463820809484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 335
+        width: 162
+        height: 219
+      alignment: 9
+      pivot: {x: 0.581014, y: 0.6797859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9023772552de7f200800000000000000
+      internalID: 213900251876504073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_10
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 335
+        width: 159
+        height: 202
+      alignment: 9
+      pivot: {x: 0.45414224, y: 0.6660398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1da4499b02791fc0800000000000000
+      internalID: -3523659839299080932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_11
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 50
+        width: 145
+        height: 267
+      alignment: 9
+      pivot: {x: 0.6709687, y: 0.87139297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dda355110dc3f740800000000000000
+      internalID: 5184713000570039769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_12
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 63
+        width: 170
+        height: 235
+      alignment: 9
+      pivot: {x: 0.36050093, y: 0.78382146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e749a1adcfcb5cf30800000000000000
+      internalID: 4595286788978414718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
