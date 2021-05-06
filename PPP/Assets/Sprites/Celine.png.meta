@@ -41,6 +41,12 @@ TextureImporter:
   - first:
       213: 4595286788978414718
     second: Celine_12
+  - first:
+      213: -5370794571600743666
+    second: Celine_13
+  - first:
+      213: -9216934334533079405
+    second: Celine_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -190,10 +196,10 @@ TextureImporter:
       name: Celine_1
       rect:
         serializedVersion: 2
-        x: 43
-        y: 650
-        width: 350
-        height: 301
+        x: 55
+        y: 655
+        width: 333
+        height: 299
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,9 +365,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 780
-        y: 335
+        y: 330
         width: 162
-        height: 219
+        height: 231
       alignment: 9
       pivot: {x: 0.581014, y: 0.6797859}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,10 +385,10 @@ TextureImporter:
       name: Celine_10
       rect:
         serializedVersion: 2
-        x: 1095
-        y: 335
+        x: 1093
+        y: 332
         width: 159
-        height: 202
+        height: 216
       alignment: 9
       pivot: {x: 0.45414224, y: 0.6660398}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,6 +440,48 @@ TextureImporter:
       bones: []
       spriteID: e749a1adcfcb5cf30800000000000000
       internalID: 4595286788978414718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_13
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 468
+        width: 333
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e033426faca1775b0800000000000000
+      internalID: -5370794571600743666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Celine_14
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 830
+        width: 333
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eed006e0fd61080800000000000000
+      internalID: -9216934334533079405
       vertices: []
       indices: 
       edges: []

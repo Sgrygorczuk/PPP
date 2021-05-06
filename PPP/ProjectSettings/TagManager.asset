@@ -13,7 +13,7 @@ TagManager:
   - Water
   - UI
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -44,4 +44,7 @@ TagManager:
     locked: 0
   - name: Celine
     uniqueID: 3234255317
+    locked: 0
+  - name: Crab
+    uniqueID: 1840271269
     locked: 0

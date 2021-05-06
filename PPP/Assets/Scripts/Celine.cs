@@ -9,7 +9,11 @@ public class Celine : MonoBehaviour
     public float xSpeed;        //Speed that player moves horizontally 
     
     //======================== Jumping 
-    public bool isInAir = false; //Tells us if we're in the air 
+    private bool isGrounded = false; //Tells us if we're touching the ground 
+    public Transform groundCheck;
+    public float checkRadius;
+    public LayerMask whatIsGround; 
+
     public float ySpeed;
 
     //================================== Internal References  
@@ -34,7 +38,6 @@ public class Celine : MonoBehaviour
     {
         float xInput = horizontalMovement();
         float yInput = verticalMovement();
-        print(rigidbody.velocity.x + " " + rigidbody.velocity.y);
         rigidbody.velocity = new Vector2(xInput * xSpeed, yInput);
 
     }
@@ -90,24 +93,20 @@ public class Celine : MonoBehaviour
     float verticalMovement(){
         float yInput = rigidbody.velocity.y;
 
-        if ((Input.GetKey(KeyCode.UpArrow) ||  Input.GetKey(KeyCode.W)) && !isInAir)
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
+
+        if ((Input.GetKey(KeyCode.UpArrow) ||  Input.GetKey(KeyCode.W)) && isGrounded)
         {
             yInput = ySpeed; 
-            isInAir = true;
+        }
+
+        if(isGrounded){
+            animator.SetBool("isInAir", false);
+        }
+        else{
             animator.SetBool("isInAir", true);
         }
 
         return yInput;
-    }
-
-    /**
-    *Input: hitbox
-    *Purpose: Checks for collision with the floor to reset the jump flag 
-    */
-    void OnTriggerEnter2D(Collider2D hitbox){
-        if(hitbox.tag == "Ground"){
-            isInAir = false;
-            animator.SetBool("isInAir", false);
-        }
     }
 }
