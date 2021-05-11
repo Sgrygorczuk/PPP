@@ -1,7 +1,31 @@
 fileFormatVersion: 2
 guid: 5750aa3c9d5e6be6a8df26a4f4e842ab
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7949601165902254431
+    second: CrabBody_0
+  - first:
+      213: 6278527638865669483
+    second: CrabBody_1
+  - first:
+      213: 3541891566129454324
+    second: CrabBody_2
+  - first:
+      213: -2364469556525399589
+    second: CrabBody_3
+  - first:
+      213: 1157475278433354332
+    second: CrabBody_4
+  - first:
+      213: -2247399184303483857
+    second: CrabBody_5
+  - first:
+      213: 2731113167987624749
+    second: CrabBody_6
+  - first:
+      213: -7220212164405306088
+    second: CrabBody_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -125,7 +149,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: CrabBody_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 946
+        width: 193
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae6d50cbd75da190800000000000000
+      internalID: -7949601165902254431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrabBody_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 390
+        width: 712
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6f0b5f9fc12750800000000000000
+      internalID: 6278527638865669483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrabBody_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 106
+        width: 124
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc19181d93572130800000000000000
+      internalID: 3541891566129454324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrabBody_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 135
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd104114777bf2fd0800000000000000
+      internalID: -2364469556525399589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrabBody_4
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 13
+        width: 165
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52015712ad201010800000000000000
+      internalID: 1157475278433354332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrabBody_5
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 25
+        width: 165
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24961f5952afc0e0800000000000000
+      internalID: -2247399184303483857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrabBody_6
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 107
+        width: 157
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b4b4bc4fcd6e520800000000000000
+      internalID: 2731113167987624749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrabBody_7
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 670
+        width: 439
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ddaa17a47accb90800000000000000
+      internalID: -7220212164405306088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

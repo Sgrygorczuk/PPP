@@ -48,3 +48,9 @@ TagManager:
   - name: Crab
     uniqueID: 1840271269
     locked: 0
+  - name: Jellyfish
+    uniqueID: 2603526121
+    locked: 0
+  - name: Crabman
+    uniqueID: 1645072965
+    locked: 0

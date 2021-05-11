@@ -21,15 +21,16 @@ public class Patrol : MonoBehaviour
         transform.position = patrolPoints[0].position;
         transform.rotation = patrolPoints[0].rotation;
         waitTime = startWaitTime;
+
     }
 
     // Update is called once per frame
     void Update()
     {
+
         //Tells it to move from currently standing in point, to given point at the given speed 
         transform.position = Vector2.MoveTowards(transform.position, patrolPoints[currentPointIndex].position, speed * Time.deltaTime);
         transform.rotation = patrolPoints[currentPointIndex].rotation;
-
         if(transform.position == patrolPoints[currentPointIndex].position){
            
             if(waitTime <= 0){
