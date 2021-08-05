@@ -17,7 +17,7 @@ public class Celine : MonoBehaviour
     public float ySpeed;
 
     //================================== Internal References  
-    Rigidbody2D rigidbody;  //Used for physics 
+    Rigidbody2D _rigidbody;  //Used for physics 
     Animator animator; //Used to update the given animation  
 
 
@@ -25,7 +25,7 @@ public class Celine : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();    
-        rigidbody = GetComponent<Rigidbody2D>();
+        _rigidbody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -38,7 +38,7 @@ public class Celine : MonoBehaviour
     {
         float xInput = horizontalMovement();
         float yInput = verticalMovement();
-        rigidbody.velocity = new Vector2(xInput * xSpeed, yInput);
+        _rigidbody.velocity = new Vector2(xInput * xSpeed, yInput);
 
     }
 
@@ -91,7 +91,7 @@ public class Celine : MonoBehaviour
     * Return: Player's y velcity 
     */
     float verticalMovement(){
-        float yInput = rigidbody.velocity.y;
+        float yInput = _rigidbody.velocity.y;
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
 

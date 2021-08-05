@@ -1301,7 +1301,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Head
+    path: Body/Right Bi
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1311,7 +1311,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Head
+    path: Body/Right Bi
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1321,7 +1321,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Head
+    path: Body/Right Bi
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1331,7 +1331,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Body/Right Bi/Right Arm
+    path: Body/Left Bi/Left Arm
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1341,7 +1341,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Body/Right Bi/Right Arm
+    path: Body/Left Bi/Left Arm
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1351,7 +1351,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Body/Right Bi/Right Arm
+    path: Body/Left Bi/Left Arm
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1391,7 +1391,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Body/Left Bi/Left Arm
+    path: Body/Right Bi/Right Arm
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1401,7 +1401,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Body/Left Bi/Left Arm
+    path: Body/Right Bi/Right Arm
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1411,7 +1411,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Body/Left Bi/Left Arm
+    path: Body/Right Bi/Right Arm
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1421,7 +1421,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Body/Right Bi
+    path: Head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1431,7 +1431,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Body/Right Bi
+    path: Head
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1441,7 +1441,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Body/Right Bi
+    path: Head
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
